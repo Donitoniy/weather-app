@@ -4,7 +4,7 @@ A simple web app that shows the current weather for any city. Type in a city nam
 
 ## 🔗 Live Demo
 
-[View it live here](PASTE_YOUR_NETLIFY_LINK_HERE)
+[View it live here](https://weatherappbytoni.netlify.app/)
 
 ## 📸 Screenshot
 
