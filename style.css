@@ -53,6 +53,24 @@ button:hover {
   background: #2d8fd5;
 }
 
+.units {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.units button {
+  background: #eee;
+  color: #333;
+  padding: 6px 14px;
+}
+
+.units button.active {
+  background: #4facfe;
+  color: white;
+}
+
 .result {
   color: #333;
 }
